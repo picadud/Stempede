@@ -1,0 +1,10 @@
+First meeting
+Second meeting
+finish the behaivor algorithm and tested it in GUI
+started refactoring it with matrix to make it more independent and potential more effiecnt
+
+to add GUI functionalities
+to deal with file
+to develop a test unit
+to make it more effient
+to add menu item in the main menu and make it so it can select different file to load, add the path as a variable.
